@@ -75,14 +75,16 @@ class Heap {
     isLeaf = (idx) => idx > Math.floor(this.values.length / 2) && idx < this.values.length - 1;
 }
 
-export class MinHeap extends Heap {
+class MinHeap extends Heap {
     constructor() {
         super(true);
     }
 }
 
-export class MaxHeap extends Heap {
+class MaxHeap extends Heap {
     constructor() {
         super(false);
     }
 }
+
+module.exports = {MinHeap, MaxHeap};
