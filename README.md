@@ -10,8 +10,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <h3 align="center">Heap Dot Js</h3>
+<h1 align="center">Heap Dot Js</h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
