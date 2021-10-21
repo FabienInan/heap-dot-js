@@ -86,11 +86,3 @@ class MaxHeap extends Heap {
         super(false);
     }
 }
-
-const maxHeap = new MaxHeap();
-maxHeap.buildHeap([2,3,4,5, -2,56,6,1]);
-console.log(maxHeap.values);
-maxHeap.add(86);
-console.log(maxHeap.values);
-console.log(maxHeap.removeTop());
-console.log(maxHeap.values);
