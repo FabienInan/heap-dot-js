@@ -18,7 +18,5 @@
         "type": "git",
         "url": "git@github.com:FabienInan/heap-dot-js.git"
     },
-    "files": [
-      "dist"
-    ]
+    "main": "index.js"
 }
