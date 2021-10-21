@@ -20,9 +20,9 @@ Efficient and useful implementation of the heap structure
 ## Getting Started
 
 ```bash
-yarn add heap-js # if you use yarn
+yarn add heap-dot-js # if you use yarn
 
-npm install --save heap-js # if you use npm
+npm install --save heap-dot-js # if you use npm
 ```
 
 ## Usage
