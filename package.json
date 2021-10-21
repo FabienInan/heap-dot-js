@@ -1,0 +1,24 @@
+{
+    "name": "heap-dot-js",
+    "version": "1.0.0",
+    "description": "Efficient and useful implementation of the heap structure",  
+    "keywords": [
+        "heap",
+        "min heap",
+        "max heap",
+        "tree",
+        "binary tree",
+        "data structure",
+        "algorithm",
+        "typescript"
+      ],
+    "author": "Fabien Inan <fabien.inan@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:FabienInan/heap-dot-js.git"
+    },
+    "files": [
+      "dist"
+    ]
+}
