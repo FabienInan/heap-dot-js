@@ -1,6 +1,6 @@
 {
     "name": "heap-dot-js",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Efficient and useful implementation of the heap structure",  
     "keywords": [
         "heap",
