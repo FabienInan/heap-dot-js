@@ -1,5 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
 <h1 align="center">Heap Dot Js</h3>
 
 <!-- ABOUT THE PROJECT -->
