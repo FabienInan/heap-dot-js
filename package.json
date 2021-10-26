@@ -16,7 +16,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git@github.com:FabienInan/heap-dot-js.git"
+        "url": "https://github.com/FabienInan/heap-dot-js"
     },
     "main": "index.js"
 }
